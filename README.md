@@ -1,0 +1,1 @@
+SciAstra Chatbot is an intelligent and interactive conversational agent designed to enhance scientific communication and engagement. This chatbot is tailored for the SciAstra community, providing a seamless platform for researchers, scientists, and enthusiasts to exchange ideas, share knowledge, and collaborate on various scientific topics.
